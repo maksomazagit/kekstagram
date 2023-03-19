@@ -1,2 +1,0 @@
-# kekstagram
-Training project
